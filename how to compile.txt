@@ -1,0 +1,6 @@
+======================
+How to compile:
+======================
+Replace files of PicoDrive 1.35b source code with the ones here provided.
+
+
